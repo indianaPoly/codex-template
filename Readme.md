@@ -5,6 +5,7 @@ slack + codex를 조합하여 말로만으로 더 좋은 코드를 만들기 위
 ### 전체 사용 흐름
 
 1. 사용자는 slack (open ai 연동)을 활용하여 PR을 생성할 수 있습니다.
+- slack에서 특정 repo에 접근을 하기 위해서는 웹사이트로 접근해 environment를 직접 설정을 해주어야 함.
 - 추후에는 jira도 연동해서 task만 추가하면 알아서 PR 만들고 코드도 바로 작업할 수 있도록 고도화 진행 예정
 
 2. codex가 repo의 AGENTS.md 규칙을 읽음
