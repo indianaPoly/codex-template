@@ -65,3 +65,7 @@ slack + codex를 조합하여 말로만으로 더 좋은 코드를 만들기 위
 - 빌드 성공시 PR 초안 작성
 
 3. scope-guard: 작업 범위를 벗어나는 것을 방지하는 안전장치
+
+4. quality-guard: 안티패턴을 배제하고 코드 퀄리티를 올리기 위한 안전장치
+
+5. frontend-quality: 프론트엔드(React/Next.js) 코드 퀄리티 패턴 + 예시 모음
